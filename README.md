@@ -2,17 +2,17 @@
 An application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## 📑 Table of Contents
-  * [Installation](#installation)
+  * [Installation](#📥installation)
 
-  * [Usage](#usage)
+  * [Usage](#📗usage)
 
-  * [License](#license)
+  * [License](#©license)
 
-  * [Contribution](#contribution)
-  
-  * [Tests](#tests)
+  * [Questions](#❓questions)
 
-  * [Questions](#questions)
+  * [Screenshots](#🌠screenshots)
+
+  * [URL](#🔗URL)
 
 ## 📥 Installation
   * Download or clone the repository URL
