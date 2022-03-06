@@ -46,4 +46,4 @@ This repository is licensed under the MIT license.
 
 ## 🔗 URL
  * Repo URL https://github.com/SophieQuan/note-taking-app.git
- * Deployed Heroku URL https://notes-taker-express-app.herokuapp.com/notes
+ * Deployed Heroku URL https://notes-taker-express-app.herokuapp.com
