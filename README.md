@@ -2,17 +2,17 @@
 An application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## 📑 Table of Contents
-  * [Installation](#📥installation)
+  * [Installation](#📥%20installation)
 
-  * [Usage](#📗usage)
+  * [Usage](#📗%20usage)
 
-  * [License](#©license)
+  * [License](#©%20license)
 
-  * [Questions](#❓questions)
+  * [Questions](#❓%20questions)
 
-  * [Screenshots](#🌠screenshots)
+  * [Screenshots](#🌠%20screenshots)
 
-  * [URL](#🔗URL)
+  * [URL](#🔗%20URL)
 
 ## 📥 Installation
   * Download or clone the repository URL
@@ -34,7 +34,7 @@ An application can be used to write and save notes. This application will use an
 ## © License
 This repository is licensed under the MIT license.
 
-## ❓Questions
+## ❓ Questions
 - Check out my Github repos [sophiequan](https://github.com/sophiequan)
 - Any questions regarding this repository please contact me at [sophiequan7@gmail.com](mailto:sophiequan7@gmail.com).
 
