@@ -18,7 +18,7 @@ An application can be used to write and save notes. This application will use an
   * Download or clone the repository URL
   * Node.js is required to run the application
   * Run command `npm i` to install npm package
-  * Run command `nodeman start` to run the application
+  * Run command `nodemon start` to run the application
 
 ## 📗 Usage
 * 👉`Go to`
